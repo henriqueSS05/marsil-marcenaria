@@ -500,6 +500,7 @@ p{ margin:0; }
 @media (max-width: 720px){
   :root{ --header-h: 64px; }
   .wrap{ padding: 0 20px; }
+  .logo-mark{ height: 25px; }
 
   .top-strip-inner{ padding: 6px 20px; font-size:.68rem; gap: 10px; }
 
