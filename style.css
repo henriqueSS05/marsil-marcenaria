@@ -549,6 +549,7 @@ p{ margin:0; }
   .contact-cards{ grid-template-columns: 1fr; padding-top: 48px; }
   .footer-inner{ grid-template-columns: 1fr; gap: 32px; padding-top: 48px; }
   .footer-bottom{ padding: 20px; text-align:center; }
+  .footer-social{  margin-bottom: 20px; }
 
   .whatsapp-float{ right: 16px; bottom: 16px; width: 52px; height:52px; }
 }
